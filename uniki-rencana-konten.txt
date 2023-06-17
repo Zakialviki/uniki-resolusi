@@ -2,7 +2,7 @@ RENCANA KONTEN
 -java script
   *es5
   *framework java
-    ^vue
+    ^ vue
     ^ react
 -fundamental data structure 
 -PHP
