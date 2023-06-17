@@ -2,9 +2,11 @@ RENCANA KONTEN
 -java script
   *es5
   *framework java
-   ^ angular
-   ^ react 
+    ^ vue
+    ^ react
+-fundamental data structure 
 -PHP
-- laravel
+  ^ Laravel
 - Interview
 - vlogs
+- python
